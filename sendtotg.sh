@@ -1,8 +1,8 @@
 #!/bin/bash
 
-filename=$1
-token=$2
-chatid=$3
+filename=$Pir1plus_bot
+token=$5625994521:AAHxGP7yGRPAGMwjJqB9l1JfMnCnMDZnL80
+chatid=$1948484833
 
 curl -v -F "chat_id=${chatid}"  \
 -F document=@${filename}.zip \
