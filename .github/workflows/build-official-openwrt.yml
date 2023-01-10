@@ -20,7 +20,7 @@ env:
   DIY_P2_SH: diy-part2.sh
   FEEDS_CONF: feeds.conf.default
   SOURCE_URL: https://github.com/baiywt/openwrt
-  SOURCE_BRANCH: openwrt-21.02
+  SOURCE_BRANCH: openwrt-22.03
   TOOLCHAIN_TAG: toolchain
   TOOLCHAIN_NAME: toolchain-orangepi-xunlong
   TZ: Asia/Shanghai
